@@ -53,13 +53,3 @@ garch_forecast
 par(mfrow=c(2,1))
 plot(garch_forecast, which = 1)
 plot(garch_forecast, which = 3)
-
-
-
-
-
-
-
-
-
-
