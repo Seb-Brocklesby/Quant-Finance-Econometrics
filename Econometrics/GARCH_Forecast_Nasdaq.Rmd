@@ -2,7 +2,7 @@
 title: "GARCH Volatility Modelling"
 author: "Seb Brocklesby"
 date: "05/03/2021"
-output: html_document
+output: rmarkdown::github_document
 ---
 
 ```{r, results='hide', message=FALSE, warning=FALSE}
