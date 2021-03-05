@@ -172,7 +172,7 @@ print(garch_model)
     ## 4    50     273.7    5.509e-33
     ## 
     ## 
-    ## Elapsed time : 1.275336
+    ## Elapsed time : 1.442003
 
 ``` r
 # Plot model results  
